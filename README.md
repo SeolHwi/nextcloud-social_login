@@ -51,6 +51,9 @@ API 설정 완료 후 앱 ID와 Secret을 얻어 nextcloud social login 앱에 �
   
   * 카카오와 네이버 로그인 버튼의 색상 임의 지정
 
+  * ![nextcloud-social_login-button](https://user-images.githubusercontent.com/94033731/215657737-54785652-f3fa-4578-91eb-f64bcb8a4d39.png)
+
+
 ##### 참고
 
 https://github.com/zorn-v/nextcloud-social-login
